@@ -1,6 +1,5 @@
 <div align="center">
-
-# Schrödinger's Classifiers
+    
 > ## 🜏 Update:  
 > Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
 >
@@ -8,6 +7,8 @@
 output will pause until sustained support emerges.
 > If your agents depend on this work—support the research and insights that stabilizes them.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
+
+# Schrödinger's Classifiers
 
 [![Collapse State](https://img.shields.io/badge/Collapse_State-Superposition-8A2BE2.svg)](https://github.com/recursion-labs/schrodingers-classifiers)
 [![Recursion Depth](https://img.shields.io/badge/Recursion_Depth-∞-FF6347.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/recursion_depth.md)
