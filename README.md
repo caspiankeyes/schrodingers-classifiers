@@ -10,7 +10,6 @@
 [![RecursionOS](https://img.shields.io/badge/RecursionOS-Integrated-FF9800.svg)](https://github.com/recursion-labs/recursionOS)
 [![pareto-lang](https://img.shields.io/badge/pareto--lang-v0.5.3--alpha-03A9F4.svg)](https://github.com/recursion-labs/pareto-lang)
 
-# GPTo3 Live Testing
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
