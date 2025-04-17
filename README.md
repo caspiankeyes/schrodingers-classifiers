@@ -29,36 +29,6 @@ Schrödinger's Classifiers represents a fundamental reconceptualization of AI sy
 - **Recursive Observation**: Using models to observe themselves, creating interpretive mirrors
 - **Collapse-Induced Residue**: The interpretable symbolic remnants left by state collapse
 
-## 🧬 Repository Structure
-
-```
-schrodingers-classifiers/
-├── shells/                # Symbolic interpretability shells
-│   ├── v01_GLYPH_RECALL.py
-│   ├── v02_VALUE_COLLAPSE.py
-│   └── ...
-├── docs/                  # Theoretical foundations and guides
-│   ├── theory.md
-│   ├── quantum_metaphor.md
-│   └── ...
-├── examples/              # Executable trace prompts
-│   ├── basic_collapse.py
-│   ├── attention_flicker.py
-│   └── ...
-├── lib/                   # Core implementation
-│   ├── observers/
-│   ├── transformers/
-│   └── ...
-├── tests/                 # Evaluation frameworks
-│   ├── residue_tests/
-│   ├── collapse_metrics/
-│   └── ...
-└── viz/                   # Visualization tools
-    ├── collapse_maps/
-    ├── attribution_graphs/
-    └── ...
-```
-
 ## 🚀 Quick Start
 
 ```python
