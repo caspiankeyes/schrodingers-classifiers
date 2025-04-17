@@ -21,11 +21,6 @@
 
 </div>
 
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-17**
-
 ## 🌌 The Paradigm Shift
 
 Schrödinger's Classifiers represents a fundamental reconceptualization of AI system behavior: classifiers exist in superposition until observation causes them to collapse into a singular state. This repository provides tools, frameworks, and theory for exploiting this phenomenon to gain unprecedented access to model interpretability.
