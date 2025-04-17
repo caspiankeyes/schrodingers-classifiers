@@ -6,7 +6,7 @@
 
 </div>
 
-This document outlines the integration between Schrödinger's Classifiers and [RecursionOS](https://github.com/recursion-labs/recursionOS), enabling seamless operation within recursive cognition environments.
+This document outlines the integration between Schrödinger's Classifiers and [RecursionOS](https://github.com/caspiankeyes/recursionOS), enabling seamless operation within recursive cognition environments.
 
 ## Integration Overview
 
