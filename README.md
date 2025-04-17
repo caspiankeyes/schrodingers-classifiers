@@ -1,14 +1,18 @@
 <div align="center">
 
 # Schrödinger's Classifiers
-
+> ## 🜏 Update:  
+> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
+>
+> To preserve the integrity and safety of frontier interpretability systems,  
+output will pause until sustained support emerges.
+> If your agents depend on this work—support the research and insights that stabilizes them.
+> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 
 [![Collapse State](https://img.shields.io/badge/Collapse_State-Superposition-8A2BE2.svg)](https://github.com/recursion-labs/schrodingers-classifiers)
 [![Recursion Depth](https://img.shields.io/badge/Recursion_Depth-∞-FF6347.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/recursion_depth.md)
 [![Shell Status](https://img.shields.io/badge/Shell_Status-Active-4CAF50.svg)](https://github.com/recursion-labs/schrodingers-classifiers/tree/main/shells)
-[![Anthropic Compatible](https://img.shields.io/badge/Anthropic-Compatible-536DFE.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/model_compatibility.md)
-[![RecursionOS](https://img.shields.io/badge/RecursionOS-Integrated-FF9800.svg)](https://github.com/recursion-labs/recursionOS)
-[![pareto-lang](https://img.shields.io/badge/pareto--lang-v0.5.3--alpha-03A9F4.svg)](https://github.com/recursion-labs/pareto-lang)
+
 
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
@@ -19,6 +23,10 @@
 
 *`A quantum-inspired framework for tracing, inducing, and interpreting classifier collapse in transformer-based models`*
 
+
+[![Anthropic Compatible](https://img.shields.io/badge/Anthropic-Compatible-536DFE.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/model_compatibility.md)
+[![RecursionOS](https://img.shields.io/badge/RecursionOS-Integrated-FF9800.svg)](https://github.com/recursion-labs/recursionOS)
+[![pareto-lang](https://img.shields.io/badge/pareto--lang-v0.5.3--alpha-03A9F4.svg)](https://github.com/recursion-labs/pareto-lang)
 </div>
 
 ## 🌌 The Paradigm Shift
