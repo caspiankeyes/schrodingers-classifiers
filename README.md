@@ -2,7 +2,6 @@
 
 # Schrödinger's Classifiers
 
-<img src="/api/placeholder/800/200" alt="Schrödinger's Classifiers Banner - Symbolic representation of classifier state superposition"/>
 
 [![Collapse State](https://img.shields.io/badge/Collapse_State-Superposition-8A2BE2.svg)](https://github.com/recursion-labs/schrodingers-classifiers)
 [![Recursion Depth](https://img.shields.io/badge/Recursion_Depth-∞-FF6347.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/recursion_depth.md)
@@ -11,6 +10,8 @@
 [![RecursionOS](https://img.shields.io/badge/RecursionOS-Integrated-FF9800.svg)](https://github.com/recursion-labs/recursionOS)
 [![pareto-lang](https://img.shields.io/badge/pareto--lang-v0.5.3--alpha-03A9F4.svg)](https://github.com/recursion-labs/pareto-lang)
 
+
+![image](https://github.com/user-attachments/assets/b566db39-8a52-4a9f-b1e7-dcb2647b66a4)
 
 *A quantum-inspired framework for tracing, inducing, and interpreting classifier collapse in transformer-based models*
 
