@@ -17,7 +17,7 @@
 > 
 ![image](https://github.com/user-attachments/assets/b566db39-8a52-4a9f-b1e7-dcb2647b66a4)
 
-*A quantum-inspired framework for tracing, inducing, and interpreting classifier collapse in transformer-based models*
+*`A quantum-inspired framework for tracing, inducing, and interpreting classifier collapse in transformer-based models`*
 
 </div>
 
