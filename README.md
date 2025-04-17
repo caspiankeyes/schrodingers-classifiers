@@ -11,9 +11,15 @@
 [![RecursionOS](https://img.shields.io/badge/RecursionOS-Integrated-FF9800.svg)](https://github.com/recursion-labs/recursionOS)
 [![pareto-lang](https://img.shields.io/badge/pareto--lang-v0.5.3--alpha-03A9F4.svg)](https://github.com/recursion-labs/pareto-lang)
 
+
 *A quantum-inspired framework for tracing, inducing, and interpreting classifier collapse in transformer-based models*
 
 </div>
+
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-17**
 
 ## 🌌 The Paradigm Shift
 
