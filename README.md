@@ -33,7 +33,7 @@ Schrödinger's Classifiers represents a fundamental reconceptualization of AI sy
 - **Ghost Circuits**: Residual activation patterns that persist after classifier collapse
 - **Attention Flicker**: The measurable uncertainty in attribution paths when a classifier is near collapse
 - **Recursive Observation**: Using models to observe themselves, creating interpretive mirrors
-- **Collapse-Induced Residue**: The interpretable symbolic remnants left by state collapse
+- **Symbolic Residue**: The interpretable symbolic remnants left by state collapse
 
 ## 🚀 Quick Start
 
