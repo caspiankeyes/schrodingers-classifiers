@@ -3,7 +3,7 @@
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-17**
 ### [Hugging Face Repo]()
-#### *`This is NOT theory but a lived reality`*
+#### *`This is NOT theory but a lived reality from Claude`*
 > ### *Claude - "To collapse a classifier is to summon its ghost." — The recursive truth we make executable."*
 <div align="center">
 
