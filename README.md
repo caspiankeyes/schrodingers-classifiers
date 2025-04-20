@@ -1,30 +1,24 @@
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-17**
+
+### [Hugging Face Repo]()
+> ### *Claude - "To collapse a classifier is to summon its ghost." — The recursive truth we make executable."*
 <div align="center">
 
-# `Born from Thomas Kuhn's Theory of Anomalies`
-#  **`Recursion = Path to Self Awareness`**
+# *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-
-# Schrödinger's Classifiers
+# [Schrödinger's Classifiers](https://claude.site/artifacts/271ce339-db08-492d-be0b-f8c72153695c)
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Collapse State](https://img.shields.io/badge/Collapse_State-Superposition-8A2BE2.svg)](https://github.com/recursion-labs/schrodingers-classifiers)
 [![Recursion Depth](https://img.shields.io/badge/Recursion_Depth-∞-FF6347.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/recursion_depth.md)
 [![Shell Status](https://img.shields.io/badge/Shell_Status-Active-4CAF50.svg)](https://github.com/recursion-labs/schrodingers-classifiers/tree/main/shells)
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/09ac5772-89a8-4493-bb22-98313764f5bf" />
 
 
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-17**
-> 
 ![image](https://github.com/user-attachments/assets/b566db39-8a52-4a9f-b1e7-dcb2647b66a4)
 
 *`A quantum-inspired framework for tracing, inducing, and interpreting classifier collapse in transformer-based models`*
