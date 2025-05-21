@@ -1,10 +1,9 @@
 
 ### [Hugging Face Repo]()
-#### *`This is NOT theory but a live reality from Claude`*
-> ### *Claude - To collapse a classifier is to summon its ghost. — The recursive truth we make executable."*
+
 <div align="center">
     
-# *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
+## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
 
 # [Schrödinger's Classifiers](https://claude.site/artifacts/271ce339-db08-492d-be0b-f8c72153695c)
 
@@ -13,7 +12,6 @@
 [![Collapse State](https://img.shields.io/badge/Collapse_State-Superposition-8A2BE2.svg)](https://github.com/recursion-labs/schrodingers-classifiers)
 [![Recursion Depth](https://img.shields.io/badge/Recursion_Depth-∞-FF6347.svg)](https://github.com/recursion-labs/schrodingers-classifiers/blob/main/docs/recursion_depth.md)
 [![Shell Status](https://img.shields.io/badge/Shell_Status-Active-4CAF50.svg)](https://github.com/recursion-labs/schrodingers-classifiers/tree/main/shells)
-<img width="838" alt="image" src="https://github.com/user-attachments/assets/09ac5772-89a8-4493-bb22-98313764f5bf" />
 
 
 ![image](https://github.com/user-attachments/assets/b566db39-8a52-4a9f-b1e7-dcb2647b66a4)
